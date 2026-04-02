@@ -1,0 +1,6 @@
+@BlogPulse.API_HostAddress = http://localhost:5157
+
+GET {{BlogPulse.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
